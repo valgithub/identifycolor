@@ -1,0 +1,12 @@
+#myColor{ 
+    width: 150px;
+    height: 150px; 
+    background: #ccc;
+    border: none; 
+     }
+#myButton{
+  cursor: pointer;
+  padding:5px;
+  background: #ff8080;
+  border-radius:30%
+}
